@@ -1,2 +1,2 @@
 # Debt-Text-Adventure-Game
-A Text Adventure Game using F# functional programming
+A Text Adventure Game using F# declaritive programming
